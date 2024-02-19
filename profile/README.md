@@ -2,15 +2,20 @@
 I am Vipin, working as Infrastructure Systems Engineer specializing in DevOps, bridge the gap between development and operations.
 
 
-**Here are some ideas to get you started:**
+**I am here to learn understand github workflow actions, other devops stuff:**
 
-🙋‍♀️ Repositories for experimental, working and testing the code.
+🙋‍♀️ Repositories are here for experimenting, working and testing the code.
 
-🌈 Contribution guidelines - how can the community get involved?
+🌈 You may find some reusable code in public repositories, related to reusable github actions.
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+👩‍💻 Useful resources - 
+- 
+1. [Workflows github action for assigning reviewers](https://github.com/vipins-lab/code-review)
+2. [Github Sample Action](https://github.com/vipins-lab/sample-action)
 
-🍿 Fun facts - what does your team eat for breakfast?
+🍿 Fun facts - I love to running atleast four times in a week.
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+※ References - 
+- 
+1. 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
