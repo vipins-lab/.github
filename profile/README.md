@@ -6,7 +6,7 @@ I am Vipin, working as Infrastructure Systems Engineer specializing in DevOps, b
 
 🙋‍♀️ Repositories are here for experimenting, working and testing the code.
 
-🌈 You may find some reusable code in public repositories, related to reusable github actions.
+🌈 You may find some reusable code here in public repositories, related to reusable github actions.
 
 👩‍💻 Useful resources - 
 - 
